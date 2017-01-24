@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.StringsAndObjects", "06.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ExchangeVariableValues", "07.ExchangeVariableValues\07.ExchangeVariableValues.csproj", "{836B3DA2-AA21-46BC-872B-E343AC42518E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.EmployeeData", "8.EmployeeData\8.EmployeeData.csproj", "{F725FB05-B08E-463D-95B3-951672E92EBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{836B3DA2-AA21-46BC-872B-E343AC42518E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{836B3DA2-AA21-46BC-872B-E343AC42518E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{836B3DA2-AA21-46BC-872B-E343AC42518E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F725FB05-B08E-463D-95B3-951672E92EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F725FB05-B08E-463D-95B3-951672E92EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F725FB05-B08E-463D-95B3-951672E92EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F725FB05-B08E-463D-95B3-951672E92EBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
